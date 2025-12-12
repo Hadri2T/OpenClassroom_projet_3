@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+models/
+
+# Data (optional - uncomment if data files shouldn't be in repo)
+# *.csv
+# *.xlsx
+# data/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
